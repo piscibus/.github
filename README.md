@@ -1,2 +1,4 @@
 # Piscibus
-Default and organization wide metadata
+
+Collection of default GitHub templates for Piscibus projects.
+
